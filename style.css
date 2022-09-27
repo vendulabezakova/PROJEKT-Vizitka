@@ -33,13 +33,14 @@ p {
   padding-bottom: 30px;
 }
 
-.profile {
+.vizitka {
   background-color: white;
   padding: 30px;
   border-radius: 10px;
   width: 550px;
   box-shadow: 5px 5px 15px #838383;
   margin: 150px auto;
+  position: relative;
 }
 
 /*button*/
@@ -102,6 +103,6 @@ a.btn-facebook:hover {
   width: 150px;
   box-shadow: 5px 5px 15px #838383;
   position: absolute;
-  left: 60%;
-  top: 90px;
+  right: -75px;
+  top: -75px;
 }
